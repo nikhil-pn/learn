@@ -1,1 +1,3 @@
 learing git this is the first lines iam writing on git
+
+added a few lines in chapter 1
